@@ -1,4 +1,4 @@
-# Hi there
+# Hi there 👋
 
 My name is Dario and I am passionate about technology.
 You can find me at:
